@@ -1,0 +1,68 @@
+[33mcommit 14299a043a55d2f9d5d1f2bf89a0ebe280517dfc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Tue Jun 11 17:25:01 2024 -0500
+
+    login uv 2
+
+[33mcommit 20be53078c3b1b459659cc013f4b283082321bd0[m
+Merge: 671b5a6 d322faa
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Tue Jun 11 17:16:02 2024 -0500
+
+    correccion conflicto
+
+[33mcommit d322faa6590c8bc258a6203a0f244d5cfa5baf88[m
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Tue Jun 11 17:07:32 2024 -0500
+
+    git 3 uv 3
+
+[33mcommit 671b5a62313d85a9f63728fa323cb00bfe44a271[m
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Tue Jun 11 17:05:39 2024 -0500
+
+    git 3 login
+
+[33mcommit 6692660869b838045e90986343890c8b6fceaac0[m
+Merge: 241bc06 1acf8f3
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Tue Jun 11 16:59:08 2024 -0500
+
+    Merge branch 'main' into login
+    q
+
+[33mcommit 1acf8f3338da4c160c15c176c01dd61cfbf65101[m
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Tue Jun 11 16:52:01 2024 -0500
+
+    git 3 uv2
+
+[33mcommit 241bc06cde171eeb53fbe13d56bb69a24c7f14eb[m
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Tue Jun 11 16:44:57 2024 -0500
+
+    login
+
+[33mcommit a510ba28fa656f4ba827b4ea2056ae68f27134d3[m
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Tue Jun 11 16:28:44 2024 -0500
+
+    este es mi 3 commit
+
+[33mcommit 21d9b1e4e184b28142ccb7d07bf10c222404477c[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Sun Jun 9 18:49:53 2024 -0500
+
+    se actualiza el texto del commit
+
+[33mcommit a1a473ae70dc246706113a3822bddaf203c6f6b3[m
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Sun Jun 9 18:40:58 2024 -0500
+
+    ste es mi 2 commit
+
+[33mcommit 735c558bf533de711dd17f9676c1e1dd423dd3d6[m
+Author: ricardo <ricardoortiza12@gmail.com>
+Date:   Sun Jun 9 18:34:55 2024 -0500
+
+    este es mi primer commit
